@@ -4,17 +4,15 @@ This was my honors project for the Programing Paradigms class in 2016. Basically
 
 For this project we were individually tasked with creating a 'somewhat' complex multithreaded video game with Java using a MVC architecture. 
 
+**Project Requirements**
 
-Requirements
-	* Pause functionality
-	* Save/Load of game state
-	* Clear instructions
-	* Multiple threads controlling separate objects
-	* A player controlled object
-	* A non-player controlled object
-
+ - Pause functionality
+ - Save/Load of game state
+ - Clear instructions
+ - Multiple threads controlling different objects
+ - A player controlled object
+ - A non-player controlled object
 
 I spent about two weeks on and off creating this game and received an A for the assignment. Woo!
-
 
 *There is still a known bug for the ball to 'phase' through objects*
