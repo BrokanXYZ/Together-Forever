@@ -1,1 +1,2 @@
+cd Compiled
 java Controller
