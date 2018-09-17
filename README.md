@@ -15,4 +15,3 @@ For this project we were individually tasked with creating a 'somewhat' complex 
 
 I spent about two weeks on and off creating this game and received an A for the assignment. Woo!
 
-**There is still a known bug for the ball to 'phase' through objects**
